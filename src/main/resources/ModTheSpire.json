@@ -1,0 +1,8 @@
+{
+  "modid": "betamode",
+  "name": "Beta Mode",
+  "author_list": ["timeracers"],
+  "description": "Makes the game run in beta configuration",
+  "version": "1",
+  "mts_version": "2.6.0"
+}
