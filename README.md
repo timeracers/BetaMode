@@ -6,7 +6,7 @@ However those extra stuff can both be buggy and unbalanced which is why they are
 
 # Requirements
 * Java 8, provided with Slay the Spire.
-* ModTheSpire, available here: https://github.com/daviscook477/BaseMod/releases
+* ModTheSpire, available here: https://github.com/kiooeht/ModTheSpire/releases
 * Slay the Spire, purchasable here: https://store.steampowered.com/app/646570/Slay_the_Spire/
 
 # Installation
